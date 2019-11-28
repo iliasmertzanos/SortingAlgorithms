@@ -1,6 +1,7 @@
 # SortingAlgorithms
 
-This package provides three sorting algorithms:
+This java code was developed during my master degree studies within a project team. <br>
+The package provides three sorting algorithms:
 
   - Merge sort
   - Quick sort
@@ -25,3 +26,5 @@ which is being inherrited from the class `SortAlgorithm<T>`:
   - `String sortingAlgorithm = args[1];` (which algorithm to use)
   - `String sortingDirection = args[2];` (ascending ot descending)
   - `String sortingComparator = args[3];` (comparator to use during sorting)
+  
+  For specific information see the source code comments. For german speakers see also the task description in the src folder.
